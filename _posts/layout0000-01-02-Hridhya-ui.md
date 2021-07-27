@@ -10,9 +10,8 @@ Your text
 
 Use the left arrow to go back!
 
- function fancyAlert(arg) {
+function fancyAlert(arg) {
       if(arg) {
         $.facebox({div:'#foo'})
       }
     }
-
